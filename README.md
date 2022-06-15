@@ -128,3 +128,6 @@ class Game:
 
 g = Game()
 g.run()
+
+
+.python linguist-detectable=true
