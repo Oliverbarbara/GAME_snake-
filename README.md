@@ -1,4 +1,4 @@
-# jogo_snake-
+# jogo_snake-Python
 #Jogo da cobrinha em python 
 #jogo da cobrinha por barbara oliveira 
 from tkinter import *
